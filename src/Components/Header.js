@@ -1,6 +1,6 @@
 import React from "react";
 import TypeWriter from "react-typewriter";
-
+import "../index.css";
 const Header = ({ data }) => {
   if (data) {
     var name = data.name;
@@ -67,7 +67,10 @@ const Header = ({ data }) => {
           <h1 className="responsive-headline">
             <TypeWriter typing={0.5}>{name ? `I'm ${name}.` : null}</TypeWriter>
           </h1>
-          <h3>
+          <h3
+            className="city__desc"
+            style={{ color: "white", fontWeight: "700" }}
+          >
             Based in {city}. <span>{occupation}</span>. {description}.
           </h3>
           <hr />

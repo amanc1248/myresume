@@ -53,7 +53,7 @@
     "work": [
       {
         "company": "DASA",
-        "title": "Founder and CEO",
+        "title": "ECOMMERCE WEB APP",
         "years": "January 2021 - Present",
         "description": "Helping cultural maker to expand their business nation wide, and make traditional cloth available to everyone"
       }
@@ -81,6 +81,12 @@
   "portfolio": {
     "projects": [
       {
+        "title": "SanjuLocalFarm (MERN)",
+        "category": "",
+        "image": "15.jpg",
+        "url": "https://sanjulocalfarm.herokuapp.com/"
+      },
+      {
         "title": "Amazone Clone (React JS)",
         "category": "",
         "image": "amazon.jpg",
@@ -97,7 +103,92 @@
         "category": "",
         "image": "mrtharu.jpg",
         "url": "https://www.youtube.com/watch?v=IQbJ9oVA-BI&t=414s"
+      },
+      {
+        "title": "React- Birthay Reminder",
+        "category": "",
+        "image": "1.jpg",
+        "url": "https://amans-react-bday-reminder.netlify.app/"
+      },
+      {
+        "title": "React- Tours",
+        "category": "",
+        "image": "2.jpg",
+        "url": "https://amans-react-tours.netlify.app/"
+      },
+      {
+        "title": "React - Accordion",
+        "category": "",
+        "image": "3.jpg",
+        "url": "https://amans-react-accordion.netlify.app/"
+      },
+      {
+        "title": "React - Menu",
+        "category": "",
+        "image": "4.jpg",
+        "url": "https://amans-react-menu.netlify.app/"
+      },
+      {
+        "title": "React - Tabs",
+        "category": "",
+        "image": "5.jpg",
+        "url": "https://amans-react-tabs.netlify.app/"
+      },
+      {
+        "title": "React - Reviews",
+        "category": "",
+        "image": "6.jpg",
+        "url": "https://aman-react-slider.netlify.app/"
+      },
+      {
+        "title": "React - Lorem ipsum",
+        "category": "",
+        "image": "7.jpg",
+        "url": "https://aman-react-loremipsum.netlify.app/"
+      },
+      {
+        "title": "React - Color generator",
+        "category": "",
+        "image": "8.jpg",
+        "url": "https://amans-react-colorgenerator.netlify.app/"
+      },
+      {
+        "title": "React - Grocery Bud",
+        "category": "",
+        "image": "9.jpg",
+        "url": "https://amans-react-grocery.netlify.app/"
+      },
+      {
+        "title": "React - Navbar",
+        "category": "",
+        "image": "10.jpg",
+        "url": "https://amans-react-navbar.netlify.app/"
+      },
+      {
+        "title": "React - slider",
+        "category": "",
+        "image": "11.jpg",
+        "url": "https://amans-react-sidebar.netlify.app/"
+      },
+      {
+        "title": "React - stripe",
+        "category": "",
+        "image": "12.jpg",
+        "url": "https://amans-react-stripesubmenu.netlify.app/"
+      },
+      {
+        "title": "React - cart",
+        "category": "",
+        "image": "13.jpg",
+        "url": "https://amans-react-cart.netlify.app/" 
+      },
+      {
+        "title": "Amazon - cart",
+        "category": "",
+        "image": "14.jpg",
+        "url": "https://amanamazoncart.netlify.app/" 
       }
+    
       
     ]
   },
